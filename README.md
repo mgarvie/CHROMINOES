@@ -1,6 +1,6 @@
 <b>Repository:</b>
 
-<em>CHROMINOES</em> is a collection of computer programs in MATLAB which uses integer linear programming techniques 
+<em>CHROMINOES</em> is a collection of computer programs in MATLAB which uses integer linear programming (ILP) techniques 
 and a generalized checkerboard colouring method to tile regions of the plane with sets of polyominoes. Note that the codes here generalize the 2-colour tiling approach at the 'Pariominoes' respository linked below. The programs are designed to be used with a high-performance MILP solver, either CPLEX or Gurobi. Users can also solve tiling problems 
 without the use of colouring techniques if they want.
 
@@ -15,7 +15,7 @@ To use use these programs you need to do the following three steps:
 </ol>
 
 <p>
-  The repository contains <code>LP make files</code> for generating each (Integer Linear Programming) ILP file and scripts for reproducing and plotting results from Section 5 in the reference given below, and are easily adapted to solve other problems. In the uncoloured case, <code>PLOT_MONO</code> and <code>PLOT_MULTI</code> generate monohedral and multihedral tiling plots, respectively. For coloured tilings, <code>PLOT_VARIOMINO</code>, optionally used in combination with <code>MAGNIFIED_COMBINED_BEST</code>, produces plots and zoomed-in views of solution regions. <code>FINDALLCHROMPLOT</code> plots all chromino variants for a given polyomino and number of colours. Each <code>MATLAB</code> file includes usage instructions in its initial comment section.
+  The repository contains <code>LP make files</code> for generating the ILP files and scripts for reproducing and plotting results from Section 5 in the reference given below, and are easily adapted to solve other problems. In the uncoloured case, <code>PLOT_MONO</code> and <code>PLOT_MULTI</code> generate monohedral and multihedral tiling plots, respectively. For coloured tilings, <code>PLOT_VARIOMINO</code>, optionally used in combination with <code>MAGNIFIED_COMBINED_BEST</code>, produces plots and zoomed-in views of solution regions. <code>FINDALLCHROMPLOT</code> plots all chromino variants for a given polyomino and number of colours. Each <code>MATLAB</code> file includes usage instructions in its initial comment section.
 </p>
 
 <b>References:</b>
@@ -27,8 +27,8 @@ To use use these programs you need to do the following three steps:
 
 <p><b>Related Repositories:</b></p>
 <ul>
-  <li><a href="https://github.com/jvburkardt/polyominoes" target="_blank">polyominoes</a> – Integer programming methods for tiling problems</li>
-  <li><a href="https://github.com/jvburkardt/pariominoes" target="_blank">pariominoes</a> – Parallel approaches to polyomino tiling using integer programming and a 2-colour approach</li>
+  <li><a href="https://github.com/jvburkardt/polyominoes" target="_blank">polyominoes</a> – ILP methods for tiling problems</li>
+  <li><a href="https://github.com/jvburkardt/pariominoes" target="_blank">pariominoes</a> – Parallel computing approaches for polyomino tiling using ILP and a 2-colour approach</li>
 </ul>
 
 <b>License:</b>
