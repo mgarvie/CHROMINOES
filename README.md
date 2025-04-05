@@ -28,7 +28,7 @@ To use use these programs you need to do the following three steps:
 <p><b>Related Repositories:</b></p>
 <ul>
   <li><a href="https://github.com/jvburkardt/polyominoes" target="_blank">polyominoes</a> – Integer programming methods for tiling problems</li>
-  <li><a href="https://github.com/jvburkardt/pariominoes" target="_blank">pariominoes</a> – Parallel approaches to polyomino tiling using an integer programming and a 2-colour approach</li>
+  <li><a href="https://github.com/jvburkardt/pariominoes" target="_blank">pariominoes</a> – Parallel approaches to polyomino tiling using integer programming and a 2-colour approach</li>
 </ul>
 
 <b>License:</b>
