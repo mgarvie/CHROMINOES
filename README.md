@@ -1,8 +1,7 @@
 <b>Repository:</b>
 
-<em>CHROMINOES</em> is a collection of computer programs in MATLAB which uses INTEGER linear programming techniques 
-and a generalized checkerboard colouring method to tile regions of the plane with sets of polyominoes. Note that the codes here generalize the 2-colour tiling approach at the 'Pariominoes' respository linked below.  
-The programs are designed to be used with a high-performance MILP solver, either CPLEX or Gurobi. Users can also solve tiling problems 
+<em>CHROMINOES</em> is a collection of computer programs in MATLAB which uses integer linear programming techniques 
+and a generalized checkerboard colouring method to tile regions of the plane with sets of polyominoes. Note that the codes here generalize the 2-colour tiling approach at the 'Pariominoes' respository linked below. The programs are designed to be used with a high-performance MILP solver, either CPLEX or Gurobi. Users can also solve tiling problems 
 without the use of colouring techniques if they want.
 
 <b>Usage:</b>
@@ -29,7 +28,7 @@ To use use these programs you need to do the following three steps:
 <p><b>Related Repositories:</b></p>
 <ul>
   <li><a href="https://github.com/jvburkardt/polyominoes" target="_blank">polyominoes</a> – Integer programming methods for tiling problems</li>
-  <li><a href="https://github.com/jvburkardt/pariominoes" target="_blank">pariominoes</a> – Parallel approaches to polyomino tiling using a integer programming and a 2-colour approach</li>
+  <li><a href="https://github.com/jvburkardt/pariominoes" target="_blank">pariominoes</a> – Parallel approaches to polyomino tiling using an integer programming and a 2-colour approach</li>
 </ul>
 
 <b>License:</b>
