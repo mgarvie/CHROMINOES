@@ -26,6 +26,12 @@ To use use these programs you need to do the following three steps:
   <em>Departments of Mathematics & Statistics, University of Guelph, ON, Canada; and Mathematics, University of Pittsburgh, PA, USA.</em>
 </p>
 
+<p><b>Related Repositories:</b></p>
+<ul>
+  <li><a href="https://github.com/jvburkardt/polyominoes" target="_blank">polyominoes</a> – Integer programming methods for tiling problems</li>
+  <li><a href="https://github.com/jvburkardt/pariominoes" target="_blank">pariominoes</a> – Parallel approaches to polyomino tiling</li>
+</ul>
+
 <b>License:</b>
 
 <p>
