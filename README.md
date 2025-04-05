@@ -16,7 +16,7 @@ To use use these programs you need to do the following three steps:
 </ol>
 
 <p>
-  The repository contains <code>LP make files</code> for generating each (Integer Linear Programming) ILP file and scripts for reproducing and plotting results from Section 5 in the reference given below. In the uncoloured case, <code>PLOT_MONO</code> and <code>PLOT_MULTI</code> generate monohedral and multihedral tiling plots, respectively. For coloured tilings, <code>PLOT_VARIOMINO</code>, optionally used in combination with <code>MAGNIFIED_COMBINED_BEST</code>, produces plots and zoomed-in views of solution regions. <code>FINDALLCHROMPLOT</code> plots all chromino variants for a given polyomino and number of colours. Each <code>MATLAB</code> file includes usage instructions in its initial comment section.
+  The repository contains <code>LP make files</code> for generating each (Integer Linear Programming) ILP file and scripts for reproducing and plotting results from Section 5 in the reference given below, and are easily adapted to solve other problems. In the uncoloured case, <code>PLOT_MONO</code> and <code>PLOT_MULTI</code> generate monohedral and multihedral tiling plots, respectively. For coloured tilings, <code>PLOT_VARIOMINO</code>, optionally used in combination with <code>MAGNIFIED_COMBINED_BEST</code>, produces plots and zoomed-in views of solution regions. <code>FINDALLCHROMPLOT</code> plots all chromino variants for a given polyomino and number of colours. Each <code>MATLAB</code> file includes usage instructions in its initial comment section.
 </p>
 
 <b>References:</b>
