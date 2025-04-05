@@ -4,6 +4,8 @@
 and a generalized checkerboard colouring method to tile regions of the plane with sets of polyominoes. 
 The programs are designed to be used with an MILP solver, either CPLEX or Gurobi. 
 
+<b>Usage:</b>
+
 To use use these programs you need to do the following three steps:
 
 <ol type="i">
@@ -22,6 +24,8 @@ To use use these programs you need to do the following three steps:
   Garvie, M. R., & Burkardt, J. (2025). <i>A Generalized Colouring Method for a Parallelizable Integer Linear Programming Approach to Polyomino Tiling</i>. Preprint submitted to <i>Theoretical Computer Science</i>, April 4, 2025. <br>
   <em>Departments of Mathematics & Statistics, University of Guelph, ON, Canada; and Mathematics, University of Pittsburgh, PA, USA.</em>
 </p>
+
+<b>License:</b>
 
 <p>
   All programs in this repository are covered by the <strong>GNU General Public License (GPL)</strong>. 
