@@ -2,7 +2,8 @@
 
 <em>CHROMINOES</em> is a collection of computer programs in MATLAB which uses INTEGER linear programming techniques 
 and a generalized checkerboard colouring method to tile regions of the plane with sets of polyominoes. 
-The programs are designed to be used with an MILP solver, either CPLEX or Gurobi. 
+The programs are designed to be used with an MILP solver, either CPLEX or Gurobi. Users can also solve tiling problems 
+without the use of colouring techniques if they want.
 
 <b>Usage:</b>
 
