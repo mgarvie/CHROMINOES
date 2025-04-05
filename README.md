@@ -35,6 +35,10 @@ To use use these programs you need to do the following three steps:
   <em>SPDX-License-Identifier: GPL-3.0-or-later</em>
 </p>
 
+<p>
+  All queries should be addressed to Marcus R. Garvie (<a href="mailto:mgarvie@uoguelph.ca">mgarvie@uoguelph.ca</a>).
+</p>
+
 
 
 
