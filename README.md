@@ -6,7 +6,7 @@ without the use of colouring techniques if they want.
 
 <b>Usage:</b>
 
-To use use these programs you need to do the following three steps:
+To use these programs you need to do the following three steps:
 
 <ol type="i">
   <li>Construct the linear system in <code>MATLAB</code> and export the corresponding LP file to <code>CPLEX</code> or <code>Gurobi</code>.</li>
@@ -39,6 +39,13 @@ To use use these programs you need to do the following three steps:
   <br>
   <em>SPDX-License-Identifier: GPL-3.0-or-later</em>
 </p>
+
+<b>Citation:</b>
+
+If you use this MATLAB library, please cite:
+
+Garvie, M. and Burkardt, J. (2025). *CHROMINOES: MATLAB library for coloured tiling problems* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.15161380
+
 
 <p>
   All queries should be addressed to Marcus R. Garvie (<a href="mailto:mgarvie@uoguelph.ca">mgarvie@uoguelph.ca</a>).
